@@ -37,7 +37,7 @@ create database cloudDB03;
 ```sql
 
 
-CREATE TABLE Dept
+CREATE TABLE dept
 (
     deptno INT PRIMARY KEY,
     dname VARCHAR(50),
